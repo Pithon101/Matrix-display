@@ -134,6 +134,8 @@ while 1:
     update_temp -= 1
     update_mesg -= 1    
     time.sleep(0.2)
+    END OF PROGRAM.
+    
 
   
 
